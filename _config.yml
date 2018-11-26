@@ -29,6 +29,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Parisienne"
     weights: "400,400i,700,700i"
+google_analytics: 'UA-81805224-1'
 twitter:
   username: libellule
 
