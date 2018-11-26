@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Cartable d'école"
+date:   2018-11-26 15:48:30 +0100
+categories: 
+  - Accessoires
+tags: 
+  - A l'école
+image:
+  path: /photos/accessoires/cartables-trousses/cartable-pirate-2.jpg
+  thumbnail: /photos/accessoires/cartables-trousses/cartable-pirate-2.jpg
+  caption: "Sacoche pour ordinateurs"
+---
+
+Pour Noël dernier, mon mari m'a offert un [chouette livre de couture](https://www.mapetitemercerie.com/en/library/56902-book-cartables-et-sacs-a-dos.html) pour faire des sacs à dos, des sacoches et des cartables. J'ai donc décidé de m'amuser un peu en faisant plaisir aux enfants !
+
+<!-- more -->
+
+J'ai commencé par le cartable de mon grand (qui était en CP), il m'a demandé un "cartable de pirate"... et nous voilà partis dans le magasin de tissus, à fouiller, déplacer, comparer les matières et les motifs. Au final, il a eu le cartable qu'il voulait, avec les couleurs qu'il aimait et il l'a gardé jusqu'aux vacances d'été ! 
+
+Je dois avouer que je suis assez fière de mes coutures parce qu'il avait parfois pas mal de livres et de cahiers et le cartable pesait assez lourd certains soirs, mais finalement, tout a tenu !
+
+J'ai décidé de le faire en skai parce que vu ce que subissent les cartables dans la cour, je me suis dit qu'il valait mieux une matière un peu résistante et imperméable. J'ai juste fait le rabat en coton pour avoir les motifs, mais l'intérieur du rabat était en cuir pour que les cahiers restent au sec !
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-pirate-2.jpg" | relative_url }})
+
+Et pour cette année, il voulait un sac "requin"... mais il n'a malheureusement pas résisté au poids des livres (j'ai dû recoudre une bretelle aux vacances d'automne) ni à une bousculade de récréation (je vais devoir recouvre l'anse du haut cette fois-ci). En dehors de ça, je suis quand même super fière de mon requin ! 
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-requin.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-requin-2.jpg" | relative_url }})
+
+Je suis curieuse de voir ce qu'il va me demander pour l'an prochain ! J'essaierai peut-être d'y intégrer des roulettes...

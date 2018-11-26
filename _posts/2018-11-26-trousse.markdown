@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Trousse pour l'école"
+date:   2018-11-26 15:48:30 +0100
+categories: 
+  - Accessoires
+tags: 
+  - A l'école
+image:
+  path: /photos/accessoires/cartables-trousses/trousse-ananas.jpg
+  thumbnail: /photos/accessoires/cartables-trousses/trousse-ananas.jpg
+  caption: "Sacoche pour ordinateurs"
+---
+
+Le grand m'a demandé il y a quelques temps de lui faire une trousse avec le tissu qu'il avait choisi dans le magasin de tissus (ou je traîne régulièrement toute la famille !). 
+
+<!-- more -->
+
+J'ai suivi le modèle du [livre](https://www.mapetitemercerie.com/en/library/56902-book-cartables-et-sacs-a-dos.html) mais le résultat est vraiment grand. 
+
+Ceci-dit, c'est une trousse sympa qui permet de séparer des choses (deux trousses cousues ensemble) et on peut s'amuser avec les tissus et les biais en mettant plein de couleurs et motifs différents. 
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/trousse-ananas.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/trousse-ananas-2.jpg" | relative_url }})
