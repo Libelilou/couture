@@ -6,11 +6,15 @@ sitemap: false
 @charset "utf-8";
 
 $serif-font-family: "Cookie", serif;
+$entry-title-weight: normal;
+$page-title-weight: normal;
+$base-font-size: 20px;
 
 @import "so-simple";
 
 .site-title {
     font-family: $serif-font-family;
+
 }
 
 .entry-meta .entry-date, 
