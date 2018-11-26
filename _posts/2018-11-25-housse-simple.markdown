@@ -39,6 +39,6 @@ En supprimant le rabat pour y mettre une femeture éclair :
 
 ![Housse à fermeture éclair pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-fermeture-eclair.jpg" | relative_url }})
 
-En allongeant le rabat et en mettant une pression (mais j'en ai pas encore fait donc je n'ai pas de photos). 
+En allongeant le rabat et en mettant une pression (à voir dans l'article des housses décorées !). 
 
 
