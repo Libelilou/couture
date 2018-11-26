@@ -13,7 +13,7 @@ image:
   caption: "Housse pour ordinateurs et tablettes"
 ---
 
-Une fois que je maîtrisais bien la technique des housses simples pour ordinateurs et tablettes, j'ai eu envie de m'amuser un peu pour les personnaliser un peu plus. Et j'ai eu la chance d'être contactées par des gens qui m'ont fait confiance en me commandant des réalisations et ça c'est super chouette !  
+Une fois que je maîtrisais bien la technique des housses simples pour ordinateurs et tablettes, j'ai eu envie de m'amuser un peu pour les personnaliser un peu plus. Et j'ai eu la chance d'être contactée par des gens qui m'ont fait confiance en me commandant des réalisations et ça c'est super chouette !  
 
 <!-- more -->
 
