@@ -13,9 +13,11 @@ image:
   caption: "Housse pour ordinateurs et tablettes"
 ---
 
-Une fois que je maîtrisais bien la technique des housses simples pour ordinateurs et tablettes, j'ai eu envie de m'amuser un peu pour les personnaliser un peu plus. Et j'ai eu la chance d'être contactée par des gens qui m'ont fait confiance en me commandant des réalisations et ça c'est super chouette !  
+Des housses pour ordinateurs et tablettes d'un article précédent, un peu plus cutomisées que les housses simples du précédent article. Au-delà des matières et des motifs, j'ai voulu ajouter un peu de fantaisie ! 
 
 <!-- more -->
+
+Une fois que je maîtrisais bien la technique des housses simples, j'ai eu envie de m'amuser un peu pour les personnaliser un peu plus. Et j'ai eu la chance d'être contactée par des gens qui m'ont fait confiance en me commandant des réalisations et ça c'est super chouette !  
 
 Ce modèle n'est pas bien plus compliqué que les housses simples, pour ce qui est du corps de la housse. On reste sur une housse avec une simple fermeture (pression, bouton, scratch ou aimant), sans anse, sans poche supplémentaire. C'est donc là encore une simple housse de protection. 
 

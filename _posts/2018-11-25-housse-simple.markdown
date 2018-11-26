@@ -13,11 +13,11 @@ image:
   caption: "Housse simple pour ordinateurs et tablettes"
 ---
 
-Ce sont probablement mes premières "vraies" réalisations en couture. Je voulais faire une housse de protection pour l'ordinateur de mon mari, mais comme il avait déjà un sac adapté, je n'avais pas besoin de faire quelque chose de très sophistiqué (pas de rembourrage, pas de fermeture particulière). 
+Une simple housse de protection pour ordinateur ou tablette, qui a l'avantage d'être rapide à coudre et simple à réaliser (aucune fermeture, il faut juste un morceau de tissu ou deux si on veut l'intérieur différent) et du fil... Et il n'y a que trois coutures !
 
 <!-- more -->
 
-Ce modèle a l'avantage d'être rapide à coudre et simple à réaliser (aucune fermeture, il faut juste un morceau de tissu ou deux si on veut l'intérieur différent) et du fil... et une machine à coudre pour aller plus vite. Et il n'y a que trois coutures... je ne mens pas quand je dis que c'est de la couture rapide !
+Ce sont probablement mes premières "vraies" réalisations en couture. Je voulais faire une housse de protection pour l'ordinateur de mon mari, mais comme il avait déjà un sac adapté, je n'avais pas besoin de faire quelque chose de très sophistiqué (pas de rembourrage, pas de fermeture particulière). 
 
 L'idée est de pouvoir glisser l'ordinateur dans la housse, le rabat se... ben rabat à l'intérieur de la pochette et ça ne prend quasiment pas de place en plus dans le sac ordinateur. Au final c'est surtout pour protéger les faces des rayures et les ports des miettes ou autres petites choses qui trainent parfois au fond d'un sac ! 
 
