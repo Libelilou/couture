@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Pochette de soirée"
+date:   2018-11-26 15:48:30 +0100
+categories: 
+  - Accessoires
+tags: 
+  - En soirée
+  - Mariage
+image:
+  path: /photos/accessoires/sacs/pochette-noeud.jpg
+  thumbnail: /photos/accessoires/sacs/pochette-noeud.jpg
+  caption: "Pochette de soirée"
+---
+
+Un modèle assez facile et rapide à réaliser (le patron et les explications se trouvent facilement sur plusieurs sites internet), qui claque en soirée ou dans un mariage !
+
+<!-- more -->
+
+J'ai fait les premières avec la témoin de ma soeur pour son mariage pour les 5 demoiselles d'honneur. On peut la customiser en rajoutant une anse (de base, elle ne peut se tenir qu'en passant la main entre le noeud et la poche), en changeant les couleurs et les tissus. 
+
+Ici les pochettes sont faites en gabardine de coton (un coton plus épais, brillant et doux, très agréable à travailler) et les noeuds en crêpe (bien ch... à travailler, ça s'effiloche énormément, c'est hyper compliqué à tailler droit, ça se décale à la couture... bref, que du bonheur). 
+
+![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud.jpg" | relative_url }})
+
+![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud-2.jpg" | relative_url }})
+
+![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud-3.jpg" | relative_url }})
