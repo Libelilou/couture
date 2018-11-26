@@ -112,7 +112,7 @@ fr: &DEFAULT_FR
   menu_label: "Menu"
   by: "par"
   min_read: "min de lecture"
-  read_more: "Lire la suite;"
+  read_more: "Lire la suite"
   categories: "Catégories"
   tags: "Tags"
   pages_categorized: "Pages catégorisées dans"
