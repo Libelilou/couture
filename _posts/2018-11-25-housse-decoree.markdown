@@ -6,7 +6,6 @@ categories:
   - Accessoires
 tags: 
   - Ordinateurs et tablettes
-  - Customisation
 image:
   path: /photos/accessoires/ordinateurs/housse-koala.jpg
   thumbnail: /photos/accessoires/ordinateurs/housse-koala.jpg
