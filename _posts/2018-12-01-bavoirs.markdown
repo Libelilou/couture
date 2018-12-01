@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Bavoirs bébé"
+date:   2018-12-01 15:48:30 +0100
+categories: 
+  - Bébé
+tags: 
+  - Linge
+image:
+  path: /photos/bebe/bavoirs-langes/bavoir-rond.jpg
+  thumbnail: /photos/bebe/bavoirs-langes/bavoir-rond.jpg
+  caption: "Bavoir pour bébé"
+---
+
+Des petits bavoirs pour bébé (avant de diversifier l'alimentation, après il vaut mieux leur mettre des bavoirs de 160x200 !), en tissu éponge, doublé de coton et customisés pour m'amuser un peu :)
+
+<!-- more -->
+
+Bon en vrai je me suis embêtée comme pas possible parce que le tissu éponge c'est une horreur à couper droit, puis à coudre proprement donc je suis pas du tout contente du résultat mais bon ils ont plu quand-même alors je les mets ici. Le modèle se trouve facilement sur internet et je pense qu'on peut remplacer le tissu éponge par du nid d'abeille, même si je suis pas sûre que ce soit plus facile à la couture.
+
+Des petits motifs en feutrine pour varier, ou pour les brodeuses, les jours de la semaine ou des messages amusants, et une petite pression pour attacher le tout ! 
+
+![Bavoir rond]({{ "/photos/bebe/bavoirs-langes/bavoir-rond.jpg" | relative_url }})
+
+Il existe des modèles plus longs, carrés et attachés avec un élastique mais je n'ai encore jamais testé. 
