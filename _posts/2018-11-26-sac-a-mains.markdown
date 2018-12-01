@@ -21,4 +21,4 @@ Je n'arrive pas à trouver d'image sur internet pour vous montrer mais en gros, 
 
 Je n'en ai fait qu'un pour le moment, je ne suis pas entièrement satisfaite du résultat parce que j'ai voulu tester le modèle de base donc je n'ai pas mis de poche à l'intérieur donc il est moyennement pratique. En revanche, le fond de sac se coud hyper facilement, à la mains, avec un fil spécial (enduit) et le modèle de base (explications avec le fond de sac) se fait vraiment rapidement. 
 
-![Sac à mains]({{ "/photos/accessoires/sacs/sacs-mains.jpg" | relative_url }})
+![Sac à mains]({{ "/photos/accessoires/sacs/sac-mains.jpg" | relative_url }})
