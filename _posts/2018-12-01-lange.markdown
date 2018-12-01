@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Carré de lange"
+date:   2018-12-01 15:48:30 +0100
+categories: 
+  - Bébé
+tags: 
+  - Linge
+  - Couture facile
+image:
+  path: /photos/bebe/bavoirs-langes/carre-lange.jpg
+  thumbnail: /photos/bebe/bavoirs-langes/carre-lange.jpg
+  caption: "Carré de lange"
+---
+
+Un grand classique du trousseau de bébé, trèèèèèèès utile pour les parents dans plein de situations ! Extrêmement faciles à faire, et customisable pour les personnaliser (couleurs et/ou motifs en feutrine, thermocollant, etc.). 
+
+<!-- more -->
+
+Jusqu'à présent je les achetais, mais j'ai découvert il y a peu qu'on pouvait acheter le tissu de langes directement en magasin. Il existe en plein de couleurs (je me rappelle à l'époque, ils étaient surtout blancs), certains même avec des motifs. 
+
+J'ai toujours aimé cette matière, elle devient très très douce après plusieurs lavages (quand j'étais petite, c'était ça mon doudou d'ailleurs !), et quand les enfants deviennent grands, ça devient des supers chiffons pour le ménage !
+
+Rien de plus facile et rapide : quatre ourlets, un peu de customisation si on veut et voila ! Je n'ai pas calculé en terme de prix, je sais que les carrés de lange se trouvent à très bon prix dans certains magasins, donc je ne sais pas si c'est vraiment meilleur marché de les faire soi-même mais en tous cas, ceux-là, ils sont personnalisés !
+
+![Carrés de lange]({{ "/photos/bebe/bavoirs-langes/carre-lange.jpg" | relative_url }})
