@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Sac à langer"
+date:   2018-12-02 15:48:30 +0100
+categories: 
+  - Bébé
+tags: 
+  - Sacs
+image:
+  path: /photos/bebe/sacs/sac-langer.jpg
+  thumbnail: /photos/bebe/sacs/sac-langer.jpg
+  caption: "Sac à langer"
+---
+
+L'indispensable des parents ! On en trouve de plusieurs tailles, avec plus ou moins de poches, avec ou sans tapis à langer, etc. En voici un fait main !
+
+<!-- more -->
+
+Et franchement, je pense que c'est une des réalisations dont je suis le plus fière ! J'y ai passé plusieurs dizaines d'heures et j'espère qu'il conviendra aux parents ;) 
+
+J'en ai profité pour le customiser avec de la feutrine et deux perles pour les yeux : 
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer.jpg" | relative_url }})
+
+J'y ai intégré un tapis à langer, non séparable, pour le côté "tout en un" : 
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-2.jpg" | relative_url }})
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-3.jpg" | relative_url }})
+
+J'ai mis plusieurs poches à l'intérieur, certaines en coton, certaines en toile imperméable, et quelques élastiques pour retenir les biberons ou bouteilles. 
+

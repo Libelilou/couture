@@ -16,7 +16,7 @@ Pratique à emmener pour une courte sortie, un tapis à langer tout simple avec 
 
 <!-- more -->
 
-Je l'ai fait avec de la toile imperméable, doublé d'un gros molleton pour plus de confort, et les poches en coton. Un gros bouton pour l'attache et voilà le travail !
+Je l'ai fait avec de la toile imperméable, doublé de coton et d'un gros molleton pour plus de confort, et les poches en coton. Un gros bouton pour l'attache et voilà le travail !
 
 ![Tapis à langer]({{ "/photos/bebe/sacs/tapis-lange.jpg" | relative_url }})
 
