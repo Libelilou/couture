@@ -30,3 +30,7 @@ J'y ai intégré un tapis à langer, non séparable, pour le côté "tout en un"
 
 J'ai mis plusieurs poches à l'intérieur, certaines en coton, certaines en toile imperméable, et quelques élastiques pour retenir les biberons ou bouteilles. 
 
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-4.jpg" | relative_url }})
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-5.jpg" | relative_url }})
+
