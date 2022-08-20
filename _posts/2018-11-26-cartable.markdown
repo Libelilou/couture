@@ -7,8 +7,8 @@ categories:
 tags: 
   - A l'école
 image:
-  path: /photos/accessoires/cartables-trousses/cartable-evoli.jpeg
-  thumbnail: /photos/accessoires/cartables-trousses/cartable-evoli.jpeg
+  path: /photos/accessoires/cartables-trousses/cartable-evoli.jpg
+  thumbnail: /photos/accessoires/cartables-trousses/cartable-evoli.jpg
   caption: "Sacs et cartables pour l'école"
 ---
 
@@ -94,8 +94,8 @@ Je commence par demander aux enfants ce qu'ils veulent comme thème, puis on tro
 
 Je reporte les différentes découpes sur le tissu (en général du skaï, parfois de la feutrine, parce que ce sont des matières qu'on peut coudre directement au point droit et qui ne vont pas s'effilocher) de chaque couleur correspondante. 
 
-![Motif]({{ "/photos/accessoires/cartables-trousses/motif-DB.jpeg" | relative_url }})
+![Motif]({{ "/photos/accessoires/cartables-trousses/motif-DB.jpg" | relative_url }})
 
 Et... maintenant on passe à la partie rigolote : l'assemblage :/ !!! Et là, il faut trouver en soi tous les stocks de patience disponible ! Selon les dessins, je couds les pièces les unes par dessus les autres ou côte à côte. Je couds souvent "manuellement à la machine" : c'est-à-dire que pour bien avoir les deux fils (et donc la tenue) je couds à la machine mais je tourne la molette à la main (j'appuie jamais sur la pédale) parce que ce sont souvent des petites pièces, et il faut parfois tourner le tissu à chaque point (donc relever le pied de biche, pivoter et rebaisser) ! Bref, c'est loooooooong ! Mais franchement, quelle fierté ensuite quand le résultat est pas trop loin du dessin d'origine !
 
-![Motif]({{ "/photos/accessoires/cartables-trousses/motif-DB2.jpeg" | relative_url }})
+![Motif]({{ "/photos/accessoires/cartables-trousses/motif-DB2.jpg" | relative_url }})
