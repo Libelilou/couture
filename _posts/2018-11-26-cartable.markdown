@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Cartable d'école"
+title:  "Sacs et cartables pour l'école"
 date:   2018-11-26 15:48:30 +0100
 categories: 
   - Accessoires
 tags: 
   - A l'école
 image:
-  path: /photos/accessoires/cartables-trousses/cartable-pirate-2.jpg
-  thumbnail: /photos/accessoires/cartables-trousses/cartable-pirate-2.jpg
-  caption: "Sacoche pour ordinateurs"
+  path: /photos/accessoires/cartables-trousses/cartable-evoli.jpg
+  thumbnail: /photos/accessoires/cartables-trousses/cartable-evoli.jpg
+  caption: "Sacs et cartables pour l'école"
 ---
 
 C'est amusant de voir l'évolution au fil des ans des sacs et cartables d'école (on passe du tout petit sac de maternelle pour le cahier de correspondance) au cartable des premières années de primaire et enfin au sac à dos (bien solide !) du CM. 
