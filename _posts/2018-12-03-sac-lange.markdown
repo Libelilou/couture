@@ -84,16 +84,8 @@ J'avais essayé de trouver comment résoudre le problème des petites sorties qu
 
 Donc j'avais fait une sorte d'organisateur de poussette : une sorte de sac avec 3 compartiments (et un rabat pour protéger de la pluie), dont un entièrement doublé de matériau isotherme (j'avais acheté ça sur internet je crois c'est ce qu'on utilise pour les maniques par exemple) pour pouvoir emmener un biberon chaud ou à l'inverse un peu frais l'été, un compartiment central pour mettre une couche par exemple, et un dernier compartiment "normal" pour autre chose. Et j'ai ajouté une petite trousse zippée à l'avant pour le portable ou le portefeuille attachée par des pressions, ce qui permet de l'enlever si on n'en a pas besoin. Bref, je m'étais bien amusée à imaginer tout ça... et j'ai bien galéré pour la réalisation !!!
 
-![Organisateur de poussette]({{ "/photos/bebe/sacs/organisateur-poussette.jpg" | relative_url }})
+![Organisateur de poussette]({{ "/photos/bebe/sacs/organiseur-poussette.jpg" | relative_url }})
 
-![Organisateur de poussette]({{ "/photos/bebe/sacs/organisateur-poussette-2.jpg" | relative_url }})
+![Organisateur de poussette]({{ "/photos/bebe/sacs/organiseur-poussette-2.jpg" | relative_url }})
 
-![Organisateur de poussette]({{ "/photos/bebe/sacs/organisateur-poussette-3.jpg" | relative_url }})
-
-
-
-
-
-
-
-
+![Organisateur de poussette]({{ "/photos/bebe/sacs/organiseur-poussette-3.jpg" | relative_url }})
