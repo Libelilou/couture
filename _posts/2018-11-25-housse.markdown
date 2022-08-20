@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "Housse et sacoches pour ordinateur et tablettes"
+date:   2018-11-25 15:48:30 +0100
+categories: 
+  - Accessoires
+tags: 
+  - Ordinateurs et tablettes
+image:
+  path: /photos/accessoires/ordinateurs/housse-koala.jpg
+  thumbnail: /photos/accessoires/ordinateurs/housse-koala.jpg
+  caption: "Housse pour ordinateurs et tablettes"
+---
+
+J'ai commencé à faire des housses d'ordinateur pour mon mari, juste pour varier un peu et mettre un peu de couleurs à l'embauche :) Et au fil du temps, je me suis amusée un peu !
+
+Au départ, j'ai fait des housses toutes simples, avec des tissus à motifs, puis j'en varié (comme pour les cartables) en customisant un peu, en rembourrant, en variant les "features" (des anses, un rabat...). 
+
+J'en ai fait aussi pour la tablette de ma mère, et je me suis essayée à quelques sacoches d'ordinateur aussi... parce que pourquoi pas :)
+
+<!-- more -->
+
+**Les housses simples**
+
+![Housse simple pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/pochette-ordi-simples.jpg" | relative_url }})
+
+![Housse simple pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-molleton.jpg" | relative_url }})
+
+![Housse simple pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-fermeture-eclair.jpg" | relative_url }})
+
+
+**Les housses customisées**
+
+Une fois que je maîtrisais bien la technique des housses simples, j'ai eu envie de m'amuser un peu pour les personnaliser un peu plus. Et j'ai eu la chance d'être contactée par des gens qui m'ont fait confiance en me commandant des réalisations et ça c'est super chouette !  
+
+Ce modèle n'est pas bien plus compliqué que les housses simples, pour ce qui est du corps de la housse. On reste sur une housse avec une simple fermeture (pression, bouton, scratch ou aimant), sans anse, sans poche supplémentaire. C'est donc là encore une simple housse de protection. 
+
+La petite difficulté vient de la décoration que vous souhaitez faire. Pour le moment je n'ai fait que des animaux simples, à partir d'images en aplat de couleurs mais je pense qu'en étant plus douée de ses mains, on peut aller plus loin ! 
+
+On peut varier les matières des housses mais aussi les matières des animaux. Pour les animaux, j'ai testé : 
+
+la feutrine (super agréable à travailler et joli rendu)
+
+![Housse customisee pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-koala.jpg" | relative_url }})
+
+![Housse simple pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-koala-2.jpg" | relative_url }})
+
+le skai (l'inconvénient c'est que le verso n'est pas très joli donc il vaut mieux le réserver pour les décorations entièrement collées au rabat, contrairement à ce que j'ai fait) 
+
+![Housse customisee pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-panda.jpg" | relative_url }})
+
+et le daim (je déconseille, après coup, parce que la matière s'effiloche beaucoup, c'est compliqué à travailler pour que le rendu soit joli et je ne sais pas si ça tient sur la durée parce que ce sont des housses que j'ai faites pour d'autres personnes)
+
+![Housse customisee pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-kangourou.jpg" | relative_url }})
+
+![Housse customisee pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/pochette-ordi-custom9.jpg" | relative_url }})
+
+![Housse customisee pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-lama2.jpg" | relative_url }})
+
+![Housse customisee pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-lama3.jpg" | relative_url }})
+
+Et j'ai aussi testé une petite housse de transport (la même chose mais avec deux petites anses pour que le déplacement soit plus simple, sans avoir à prendre un sac)
+
+![Housse customisee pour ordinateur et tablette]({{ "/photos/accessoires/ordinateurs/housse-ordi.jpg" | relative_url }})
+
+
+**Les sacoches pour ordinateurs**
+
+J'en ai fait que deux parce que j'en ai pas vraiment l'utilité en réalité, mais la première était un cadeau pour mon beau-père (c'était ma toute première donc le résultat est pas dingue) et la deuxième que j'ai fait pour moi. 
+
+![Sacoche pour ordinateur]({{ "/photos/accessoires/ordinateurs/sacoche-3.jpg" | relative_url }})
+
+![Sacoche pour ordinateur]({{ "/photos/accessoires/ordinateurs/sacoche.jpg" | relative_url }})
+
+**Ma méthode pour les motifs**
+
+Comme pour les cartables, je commence par trouver le motif sur internet (en privilégiant l'aplat parce que j'ai pas non plus des compétences illimitées), j'imprime puis je découpe les différentes parties du motif selon les couleurs. 
+
+Je reporte les différentes découpes sur le tissu, en général du skaï, parfois de la feutrine, parce que ce sont des matières qu'on peut coudre directement au point droit et qui ne vont pas s'effilocher. J'ai tenté avec du daim (pour le kangourou et les lamas, mais il faut faire un point zigzag très serré pour faire tenir le motif, le résultat est donc moins propre (et je ne sais pas comment ça "vieillit" car c'était des commandes spécifiques pour d'autres personnes). 
+
+Et ensuite, j'assemble. Et là, il faut trouver en soi tous les stocks de patience disponible ! Selon les dessins, je couds les pièces les unes par dessus les autres ou côte à côte. Je couds souvent "manuellement à la machine" : c'est-à-dire que pour bien avoir les deux fils (et donc la tenue) je couds à la machine mais je tourne la molette à la main (j'appuie jamais sur la pédale) parce que ce sont souvent des petites pièces, et il faut parfois tourner le tissu à chaque point (donc relever le pied de biche, pivoter et rebaisser) ! Bref, c'est loooooooong ! Mais franchement, quelle fierté ensuite quand le résultat est pas trop loin du dessin d'origine !
+
+![Motif]({{ "/photos/accessoires/ordinateurs/housse-koala-3.jpg" | relative_url }})
