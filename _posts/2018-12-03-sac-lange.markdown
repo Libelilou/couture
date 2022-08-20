@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sac à langer"
+title:  "Sac et tapis à langer"
 date:   2018-12-02 15:48:30 +0100
 categories: 
   - Bébé
@@ -12,25 +12,88 @@ image:
   caption: "Sac à langer"
 ---
 
-L'indispensable des parents ! On en trouve de plusieurs tailles, avec plus ou moins de poches, avec ou sans tapis à langer, etc. En voici un fait main !
+L'indispensable des parents ! On en trouve de plusieurs tailles, avec plus ou moins de poches, avec ou sans tapis à langer, etc. 
+
+J'en ai fait un tout premier pour ma soeur (et je crois que ça restera mon préféré, j'adooooore ce petit manchot, et l'association du gris et vert menthe !) et puis j'ai essayé de varier les tailles en fonction des besoins. 
 
 <!-- more -->
 
-Et franchement, je pense que c'est une des réalisations dont je suis le plus fière ! J'y ai passé plusieurs dizaines d'heures et j'espère qu'il conviendra aux parents ;) 
+**Les sacs à langer**
 
-J'en ai profité pour le customiser avec de la feutrine et deux perles pour les yeux : 
+J'ai commencé par un sac à langer complet. Comme j'avais déjà eu mes deux enfants, je me rappelais à peu près de la galère des sacs à langer : trop petit, trop grand, trop de poches, pas assez de poches... et surtout, du tapis à langer qu'il faut loger dans le sac, au milieu de tout le reste ! 
+
+Du coup, j'ai tenté (et je suis assez fière du résultat) un sac à langer avec le tapis attaché au sac. J'ai essayé de mettre plusieurs poches à l'intérieur (dont certaines en toile imperméable pour éviter les accidents), et des élastiques pour retenir les couches et les bouteilles ou biberon. 
+
 
 ![Sac à langer]({{ "/photos/bebe/sacs/sac-langer.jpg" | relative_url }})
-
-J'y ai intégré un tapis à langer, non séparable, pour le côté "tout en un" : 
 
 ![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-2.jpg" | relative_url }})
 
 ![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-3.jpg" | relative_url }})
 
-J'ai mis plusieurs poches à l'intérieur, certaines en coton, certaines en toile imperméable, et quelques élastiques pour retenir les biberons ou bouteilles. 
-
 ![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-4.jpg" | relative_url }})
 
 ![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-5.jpg" | relative_url }})
+
+Pour le suivant (pour une amie cette fois) j'ai fait sur le même principe, mais en faisant en sorte que le tapis soit détachable (si pour une raison ou une autre on veut prendre le sac mais sans le tapis). Le tapis était entièrement en skai (rembourré bien sûr avec du molleton entre les deux couches pour le confort de bébé) pour pouvoir nettoyer facilement d'un coup d'éponge.
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-6.jpg" | relative_url }})
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-7.jpg" | relative_url }})
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-8.jpg" | relative_url }})
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-9.jpg" | relative_url }})
+
+Sur le troisième modèle, j'ai fait un tapis détachable mais cette fois, il est en skai d'un côté et en tissu éponge de l'autre.  
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-10.jpg" | relative_url }})
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-11.jpg" | relative_url }})
+
+![Sac à langer]({{ "/photos/bebe/sacs/sac-langer-12.jpg" | relative_url }})
+
+
+**La trousse à langer**
+
+Pour les petits déplacements, j'ai fait pour mon frère une version miniature d'un sac à langer, en forme de trousse (assez grande quand-même pour y mettre les couches, les produits, un change et un biberon), et là encore, avec un tapis à langer, détachable pour s'adapter aux besoins et prendre l'un ou l'autre ou les deux ! 
+
+Pour le tapis, j'ai changé de méthode, il est en skaï d'un côté, et tapis matelassé de l'autre mais j'ai ajouté une surcouche en tissu éponge (attachée avec des pressions) pour pouvoir le nettoyer plus facilement. 
+
+![Trousse à langer]({{ "/photos/bebe/sacs/trousse-langer-5.jpg" | relative_url }})
+
+![Trousse à langer]({{ "/photos/bebe/sacs/trousse-langer-2.jpg" | relative_url }})
+
+![Trousse à langer]({{ "/photos/bebe/sacs/trousse-langer.jpg" | relative_url }})
+
+
+**Le tapis à langer**
+
+Ma soeur m'avait demandé un tapis à langer de transport (elle avait trouvé des idées sur Pinterest), pour pouvoir voyager léger avec le strict minimum quand ils partaient en rando par exemple (le tapis, deux poches mettre deux couches, quelques lingettes et des petites bouteilles de liniment). J'ai respecté les consignes et les modèles à la lettre !
+
+_NB : au départ j'avais fait le tapis en toile imperméable mais elle n'a pas trop supporté les différents lavages, donc je lui avais ensuite refait entièrement en skaï)_
+
+![Tapis à langer]({{ "/photos/bebe/sacs/tapis-lange.jpg" | relative_url }})
+
+![Tapis à langer]({{ "/photos/bebe/sacs/tapis-lange-2.jpg" | relative_url }})
+
+
+**L'organisateur de poussette**
+
+J'avais essayé de trouver comment résoudre le problème des petites sorties quand on a besoin de quelques affaires sur la poussette (un biberon, par exemple) mais qu'on part juste en petite balade et qu'on ne veut pas amener le gros sac à langer. 
+
+Donc j'avais fait une sorte d'organisateur de poussette : une sorte de sac avec 3 compartiments (et un rabat pour protéger de la pluie), dont un entièrement doublé de matériau isotherme (j'avais acheté ça sur internet je crois c'est ce qu'on utilise pour les maniques par exemple) pour pouvoir emmener un biberon chaud ou à l'inverse un peu frais l'été, un compartiment central pour mettre une couche par exemple, et un dernier compartiment "normal" pour autre chose. Et j'ai ajouté une petite trousse zippée à l'avant pour le portable ou le portefeuille attachée par des pressions, ce qui permet de l'enlever si on n'en a pas besoin. Bref, je m'étais bien amusée à imaginer tout ça... et j'ai bien galéré pour la réalisation !!!
+
+![Organisateur de poussette]({{ "/photos/bebe/sacs/organisateur-poussette.jpg" | relative_url }})
+
+![Organisateur de poussette]({{ "/photos/bebe/sacs/organisateur-poussette-2.jpg" | relative_url }})
+
+![Organisateur de poussette]({{ "/photos/bebe/sacs/organisateur-poussette-3.jpg" | relative_url }})
+
+
+
+
+
+
+
 
