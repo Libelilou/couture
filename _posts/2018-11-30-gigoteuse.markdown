@@ -25,25 +25,7 @@ Pour l'hiver on peut utiliser des tissus en pilou-pilou (en vrai, je sais pas co
 
 Toutes simples : 
 
-![Gigoteuse nuage]({{ "/photos/bebe/gigoteuses/gigoteuse-nuage.jpg" | relative_url }})
 
-![Gigoteuse oursons]({{ "/photos/bebe/gigoteuses/gigoteuse-oursons.jpg" | relative_url }})
-
-![Gigoteuse bleue]({{ "/photos/bebe/gigoteuses/gigoteuse-bleue.jpg" | relative_url }})
-
-![Gigoteuse baleine]({{ "/photos/bebe/gigoteuses/gigoteuse-baleine.jpg" | relative_url }})
-
-En tissu matelassé (qu'on peut du coup accorder à un tour de lit) : 
-
-![Gigoteuse étoile]({{ "/photos/bebe/gigoteuses/gigoteuse-chouette.jpg" | relative_url }})
-
-Avec des motifs en feutrine et deux tissus différents (j'ai coupé le modèle en deux pour associer deux tissus) : 
-
-![Gigoteuse étoile]({{ "/photos/bebe/gigoteuses/gigoteuse-etoile-2.jpg" | relative_url }})
-
-Avec des motifs thermocollants et les pression sont remplacées par des vrais boutons (c'est nettement moins pratique mais les boutons étaient super jolis et allaient parfaitement avec la couleur du tissu... et en plus j'avais envie de tester les boutonnières) : 
-
-![Gigoteuse sirène]({{ "/photos/bebe/gigoteuses/gigoteuse-sirene.jpg" | relative_url }})
 
 
 
