@@ -58,7 +58,7 @@ Sur le troisième modèle, j'ai fait un tapis détachable mais cette fois, il es
 
 Pour les petits déplacements, j'ai fait pour mon frère une version miniature d'un sac à langer, en forme de trousse (assez grande quand-même pour y mettre les couches, les produits, un change et un biberon), et là encore, avec un tapis à langer, détachable pour s'adapter aux besoins et prendre l'un ou l'autre ou les deux ! 
 
-Pour le tapis, j'ai changé de méthode, il est en skaï d'un côté, et tapis matelassé de l'autre mais j'ai ajouté une surcouche en tissu éponge (attachée avec des pressions) pour pouvoir le nettoyer plus facilement. 
+Pour le tapis, j'ai changé de méthode, il est en skaï d'un côté, et tapis matelassé de l'autre mais j'ai ajouté une surcouche en skaï (attachée avec des pressions) pour pouvoir le nettoyer plus facilement. 
 
 ![Trousse à langer]({{ "/photos/bebe/sacs/trousse-langer-5.jpg" | relative_url }})
 
