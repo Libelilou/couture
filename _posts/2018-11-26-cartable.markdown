@@ -12,24 +12,90 @@ image:
   caption: "Sacoche pour ordinateurs"
 ---
 
-Un vrai cartable de primaire ! Déclinable selon les envies (matières, couleurs, motifs, décorations, poches, ...). Attention en revanche à bien insister sur les coutures des bretelles, qui sont assez maltraitées au fil des semaines et à l'anse du haut qui subit le même sort ! 
+C'est amusant de voir l'évolution au fil des ans des sacs et cartables d'école (on passe du tout petit sac de maternelle pour le cahier de correspondance) au cartable des premières années de primaire et enfin au sac à dos (bien solide !) du CM. 
+
+Et bien sûr, le plus chouette, c'est de relever des défis au fur et à mesure que leurs goûts évoluent : trouver les bons tissus, reproduire les dessins (je commence à maîtriser les découpes du skaï :D)... 
 
 <!-- more -->
 
-Pour Noël dernier, mon mari m'a offert un [chouette livre de couture](https://www.mapetitemercerie.com/en/library/56902-book-cartables-et-sacs-a-dos.html) pour faire des sacs à dos, des sacoches et des cartables. J'ai donc décidé de m'amuser un peu en faisant plaisir aux enfants !
+J'ai commencé à faire les sacs et cartables d'école depuis 2017, mon mari m'avait offert un [chouette livre de couture de sacs et cartables](https://www.mapetitemercerie.com/en/library/56902-book-cartables-et-sacs-a-dos.html). J'ai donc décidé de m'amuser un peu en faisant plaisir aux enfants !
 
-J'ai commencé par le cartable de mon grand (qui était en CP), il m'a demandé un "cartable de pirate"... et nous voilà partis dans le magasin de tissus, à fouiller, déplacer, comparer les matières et les motifs. Au final, il a eu le cartable qu'il voulait, avec les couleurs qu'il aimait et il l'a gardé jusqu'aux vacances d'été ! 
+J'ai commencé par suivre les modèles du livre, et au fil des ans, j'ai modifié ou ajouté des choses (par exemple, suite au COVID, les enfants devaient amener leur propre gourde à l'école, donc j'ai fait des poches sur le côté pour éviter de mettre les gourdes directement à côté des cahiers).
 
-Je dois avouer que je suis assez fière de mes coutures parce qu'il avait parfois pas mal de livres et de cahiers et le cartable pesait assez lourd certains soirs, mais finalement, tout a tenu !
+**Les sacs de maternelle**
 
-J'ai décidé de le faire en skai parce que vu ce que subissent les cartables dans la cour, je me suis dit qu'il valait mieux une matière un peu résistante et imperméable. J'ai juste fait le rabat en coton pour avoir les motifs, mais l'intérieur du rabat était en cuir pour que les cahiers restent au sec !
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-renard.jpg" | relative_url }})
 
-![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-pirate-2.jpg" | relative_url }})
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-renard2.jpg" | relative_url }})
 
-Et pour cette année, il voulait un sac "requin"... mais il n'a malheureusement pas résisté au poids des livres (j'ai dû recoudre une bretelle aux vacances d'automne) ni à une bousculade de récréation (je vais devoir recouvre l'anse du haut cette fois-ci). En dehors de ça, je suis quand même super fière de mon requin ! 
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-renard3.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-rainbow2.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-rainbow3.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-rainbow4.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-rainbow5.jpg" | relative_url }})
+
+
+**Les cartables de primaire**
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-pirate.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-pirate2.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-pirate3.jpg" | relative_url }})
 
 ![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-requin.jpg" | relative_url }})
 
-![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-requin-2.jpg" | relative_url }})
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-requin2.jpg" | relative_url }})
 
-Je suis curieuse de voir ce qu'il va me demander pour l'an prochain ! J'essaierai peut-être d'y intégrer des roulettes...
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-requin3.jpg" | relative_url }})
+
+
+**Sac en bandoulière**
+
+_Full discolsure : finalement, j'ai dû retransformer ce sac en bandoulière en cartable en enlevant l'anse et en cousant des bretelles, parce que le poids du sac était trop lourd et donc le format bandoulière pas du tout adapté à un enfant au primaire_
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-salameche2.jpg" | relative_url }})
+
+
+**Les sacs à dos de primaire**
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-pikachu.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-blackpanther.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-blackpanther2.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-evoli.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-DB.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/cartable-DB2.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-DB.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-DB2.jpg" | relative_url }})
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-DB3.jpg" | relative_url }})
+
+_Et bonus pour ce dernier, j'ai même trouvé le tissu accordé !_
+
+
+**Le sac de sport du collège**
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/sac-sport.jpg" | relative_url }})
+
+**Ma méthode pour les motifs**
+
+Je commence par demander aux enfants ce qu'ils veulent comme thème, puis on trouve ensemble un dessins sur internet qui leur plaît (en privilégiant l'aplat parce que j'ai pas non plus des compétences illimitées), j'imprime puis je découpe les différentes parties du motif selon les couleurs. 
+
+Je reporte les différentes découpes sur le tissu (en général du skaï, parfois de la feutrine, parce que ce sont des matières qu'on peut coudre directement au point droit et qui ne vont pas s'effilocher) de chaque couleur correspondante. 
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/motif-DB.jpg" | relative_url }})
+
+Et... maintenant on passe à la partie rigolote : l'assemblage :/ !!! Et là, il faut trouver en soi tous les stocks de patience disponible ! Selon les dessins, je couds les pièces les unes par dessus les autres ou côte à côte. Je couds souvent "manuellement à la machine" : c'est-à-dire que pour bien avoir les deux fils (et donc la tenue) je couds à la machine mais je tourne la molette à la main (j'appuie jamais sur la pédale) parce que ce sont souvent des petites pièces, et il faut parfois tourner le tissu à chaque point (donc relever le pied de biche, pivoter et rebaisser) ! Bref, c'est loooooooong ! Mais franchement, quelle fierté ensuite quand le résultat est pas trop loin du dessin d'origine !
+
+![Cartables]({{ "/photos/accessoires/cartables-trousses/motif-DB2.jpg" | relative_url }})
