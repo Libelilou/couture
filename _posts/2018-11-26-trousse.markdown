@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trousse pour l'école"
+title:  "Sacoches, sacs, trousses et housses"
 date:   2018-11-26 15:48:30 +0100
 categories: 
   - Accessoires
@@ -9,19 +9,121 @@ tags:
 image:
   path: /photos/accessoires/cartables-trousses/trousse-ananas.jpg
   thumbnail: /photos/accessoires/cartables-trousses/trousse-ananas.jpg
-  caption: "Sacoche pour ordinateurs"
+  caption: "Trousses"
 ---
 
-Une trousse, c'est pratique. Et quand elle est unique, c'est encore plus chouette ! Voici un modèle de double trousse (deux trousses cousues ensemble) pour l'école ou la maison, customisable à l'envie !
+Un article un peu "vrac" pour plein de petites trousses ou housses ou sacs (en dehors des cartables) que j'ai pu réaliser ces dernières années. 
 
 <!-- more -->
 
-Le grand m'a demandé il y a quelques temps de lui faire une trousse avec le tissu qu'il avait choisi dans le magasin de tissus (où je traîne régulièrement toute la famille !). 
+**Trousses d'école**
+
+Les trousses c'est aussi un bon moyen de s'amuser parce qu'il y a plein de manières de les personnaliser ! J'ai commencé avec des modèles simples et sans décoration la première année des cartables Pokemon (le Pikachu et le Salamèche) pour que les garçons aient des trousses assorties à leurs sacs... et je suis fière de vous annoncer qu'elles servent encore (elles tiennent très bien et elles ont la bonne taille !). J'en ai fait des nouvelles pour le petit cette année, mais surtout parce qu'il me restait du tissu et pour changer un peu, mais le grand a souhaité garder les mêmes trousses (elles serviront donc pour la 4ème année !). 
+
+_Elles sont un peu sales sur les photos, mais je me rends compte que je n'avais pas pris de photos à l'époque... et il manque la grise, je pense que mon grand est parti avec chez ses grands-parents_
+
+![Trousses d'école]({{ "/photos/accessoires/cartables-trousses/trousses.jpg" | relative_url }})
+
+Et cette année, j'ai tenté aussi une autre forme : la trousse ronde. Bon ce fut un peu laborieux pour trouver les bonnes dimensions (et vive les révisions de la formule du périmètre d'un cercle :D) mais le rendu est pas trop mal pour une première !
+
+![Trousses d'école]({{ "/photos/accessoires/cartables-trousses/trousses2.jpg" | relative_url }})
+
+Le grand m'avait demandé il y a quelques temps de lui faire une trousse avec le tissu qu'il avait choisi dans le magasin de tissus (où je traîne régulièrement toute la famille !). 
 
 J'ai suivi le modèle du [livre](https://www.mapetitemercerie.com/en/library/56902-book-cartables-et-sacs-a-dos.html) mais le résultat est vraiment grand. 
 
 Ceci-dit, c'est une trousse sympa qui permet de séparer des choses (deux trousses cousues ensemble) et on peut s'amuser avec les tissus et les biais en mettant plein de couleurs et motifs différents. 
 
-![Cartables]({{ "/photos/accessoires/cartables-trousses/trousse-ananas.jpg" | relative_url }})
+![Trousse d'école]({{ "/photos/accessoires/cartables-trousses/trousse-ananas.jpg" | relative_url }})
 
-![Cartables]({{ "/photos/accessoires/cartables-trousses/trousse-ananas-2.jpg" | relative_url }})
+![Trousse d'école]({{ "/photos/accessoires/cartables-trousses/trousse-ananas-2.jpg" | relative_url }})
+
+Et ça permet aussi d'immortaliser des logos avant qu'ils changent :D
+
+![Trousse d'école]({{ "/photos/accessoires/cartables-trousses/trousse-rectangle.jpg" | relative_url }})
+
+Et ce dernier modèle, c'est mon grand qui l'a fait lui-même, j'ai presque pas aidé ! Il voulait une trousse pour ranger ses billes. 
+
+![Trousse d'école]({{ "/photos/accessoires/cartables-trousses/trousse-billes.jpg" | relative_url }})
+
+**Trousses de toilette**
+
+Là encore, personnalisables à l'envie, et ça sert toujours ! Le modèle avec les chouettes c'était pour mon filleul, et comme ça rendait bien, je m'étais lancée dans la réalisation de 30 trousses de toilettes pour offrir à Noël à chacune des résidentes de la maison de retraite où je travaille ! C'était un peu du travail à la chaîne à un moment mais je me suis bien amusée à rechercher des tissus accordés aux fermetures éclair (achetées en lot). 
+
+![Trousse de toilette]({{ "/photos/accessoires/cartables-trousses/trousse-simple.jpg" | relative_url }})
+
+![Trousse de toilette]({{ "/photos/accessoires/cartables-trousses/trousses-simples.jpg" | relative_url }})
+
+**Protège-porte-vue**
+
+Je cherchais une idée pour les cadeaux de fin d'année aux enseignants... et... voilà !
+
+![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue.jpg" | relative_url }})
+
+![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue2.jpg" | relative_url }})
+
+![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue3.jpg" | relative_url }})
+
+**Sacoche**
+
+Maintenant que mon fils grandit, il a eu droit à sa propre sacoche pour quand on sort se balader (il n'y a souvent qu'une petite gourde mais bon, c'est un signe de "grand" donc ça lui fait plaisir quan-même) avec en prime, un magnifique écusson de Cyberspace Building Crew !!!
+
+![Sacoche]({{ "/photos/accessoires/cartables-trousses/sacoche1.jpg" | relative_url }})
+
+Et du coup, quand mon père l'a vue, il en a voulu une aussi ! Avec quelques spécifications supplémentaires (pochette à l'avant, poche fermée à l'arrière). Il a pu choisir ses couleurs... ou absence de couleur mais bon, j'aurais tenté !
+
+![Sacoche]({{ "/photos/accessoires/cartables-trousses/sacoche2.jpg" | relative_url }})
+
+![Sacoche]({{ "/photos/accessoires/cartables-trousses/sacoche3.jpg" | relative_url }})
+
+
+**Banane**
+
+Ne jugez pas, mon fils m'avait demandé il y a quelques années... un sac banane !!! Donc ben... je me suis amusée à lui en faire une petite. Il ne l'a pas beaucoup utilisée au final mais ça lui a fait plaisir sur le coup. 
+
+![Sac banane]({{ "/photos/accessoires/cartables-trousses/banane.jpg" | relative_url }})
+
+
+**Totebag**
+
+Un autre accessoire hyper utile au quotidien : le tote-bag ! Et franchement c'est rien à faire, et on peut s'amuser à les personnaliser :) Là j'ai fait les décos en point de croix mais on peut les customiser de plein de façons différentes. 
+
+![Totebag]({{ "/photos/accessoires/cartables-trousses/totebag.jpg" | relative_url }})
+
+Et du coup, pour éviter le gaspillage, l'an dernier, j'ai emballé une partie des cadeaux de Noël dans des tote-bags fait maison, comme ça l'emballage devient aussi une partie du cadeau et ça m'a occupée le soir devant l'intégrale de SGA !
+
+
+**Malette à dessin**
+
+J'avais trouvé cette idée sur Pinterest donc je voulais la tester pour mon filleul. J'ai renforcé le dessous avec une plaque de TEXON (que j'ai utilisée aussi par la suite pour certains cartables) pour que ce soit rigide et qu'il puisse vraiment s'en servir de support de dessin aussi. C'était très amusant à faire, le rendu est pas si mal et il s'en sert donc je suis contente :)
+
+![Malette à dessin]({{ "/photos/accessoires/cartables-trousses/sacoche-dessin.jpg" | relative_url }})
+
+![Malette à dessin]({{ "/photos/accessoires/cartables-trousses/sacoche-dessin2.jpg" | relative_url }})
+
+![Malette à dessin]({{ "/photos/accessoires/cartables-trousses/sacoche-dessin3.jpg" | relative_url }})
+
+
+**Housse de protection de machine à coudre**
+
+Je voulais faire une petite housse de protection pour la machine à coudre de ma mère, pour protéger de la poussière quand elle ne s'en sert pas. Et comme la forme s'y prêtait, j'ai trouvé rigolo de faire une petite "housse caravane" !
+
+_C'est une simple housse à enfiler dessus, il n'y a pas de "socle"_
+
+![Housse de machine]({{ "/photos/accessoires/cartables-trousses/housse-machine.jpg" | relative_url }})
+
+Je n'en ai pas encore fait pour la mienne mais je m'en ferai peut-être une un jour...
+
+
+**Sacs de transport de machine à coudre**
+
+Et sur le même modèle que les sacs à langer, j'avais fait deux petits sacs de transport pour les petites machines à coudre de mon fils et ma nièce (et du coup, l'emballage faisait partie du cadeau !), avec plusieurs poches de rangement tout autour pour y mettre leurs accessoires. 
+
+![Sac à machine]({{ "/photos/accessoires/cartables-trousses/sac-machine1.jpg" | relative_url }})
+
+![Sac à machine]({{ "/photos/accessoires/cartables-trousses/sac-machine2.jpg" | relative_url }})
+
+![Sac à machine]({{ "/photos/accessoires/cartables-trousses/sac-machine3.jpg" | relative_url }})
+
+
+

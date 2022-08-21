@@ -7,8 +7,8 @@ categories:
 tags: 
   - Accessoires
 image:
-  path: /photos/bebe/bavoirs-langes/bavoir-rond.jpg
-  thumbnail: /photos/bebe/bavoirs-langes/bavoir-rond.jpg
+  path: /photos/bebe/jeux/jeu-quille.jpg
+  thumbnail: /photos/bebe/jeux/jeu-quille.jpg
   caption: "Bavoir pour bébé"
 ---
 
@@ -43,6 +43,14 @@ Quand mon filleul a grandi, je me suis aussi amusée à imaginer des petites cho
 ![Cube ouverture]({{ "/photos/bebe/jeux/cube-ouverture3.jpg" | relative_url }})
 
 Je n'ai pas encore fait autre choses dans cette veine, peut-être que j'aurais d'autres idées pour une prochaine naissance !
+
+**Coussins**
+
+Moi j'aime bien les défis ! Bon parfois, le résultat est pas extraordinaire mais j'aime bien tester des choses, réfléchir à des façons de faire etc. Donc je me suis amusée en faisant ces deux "coussins" :)
+
+![Coussin Colère]({{ "/photos/bebe/jeux/colere.jpg" | relative_url }})
+
+![Coussin Joie]({{ "/photos/bebe/jeux/joie.jpg" | relative_url }})
 
 **Jeux**
 
