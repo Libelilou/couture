@@ -21,8 +21,4 @@ J'ai fait les premières avec la témoin de ma soeur pour son mariage pour les 5
 
 Ici les pochettes sont faites en gabardine de coton (un coton plus épais, brillant et doux, très agréable à travailler) et les noeuds en crêpe (bien ch... à travailler, ça s'effiloche énormément, c'est hyper compliqué à tailler droit, ça se décale à la couture... bref, que du bonheur). 
 
-![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud.jpg" | relative_url }})
 
-![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud-2.jpg" | relative_url }})
-
-![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud-3.jpg" | relative_url }})

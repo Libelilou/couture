@@ -13,12 +13,18 @@ image:
   caption: "Sac à mains"
 ---
 
-Un sac qui peut être assez rapide à faire si on ne customise pas trop l'intérieur (avec diverses poches par exemple), grâce au fond de sac que j'ai trouvé dans mon magasin de couture (il en existe pour faire des sacs ronds ou rectangulaires) et aux anses assorties.
+Les sacs à main c'est toujours quelque chose d'assez marrant à coudre parce qu'il y a tellement de modèles de base différents, et qu'on peut ensuite personnaliser en variant les tissus, les poches, les anses...
 
 <!-- more -->
 
-Je n'arrive pas à trouver d'image sur internet pour vous montrer mais en gros, on peut acheter le fond de sac et les anses en cuir et ajouter ensuite simplement le tissu du sac et une fermeture éclair. 
+Bref, sans cohérence aucune, je mets ici en vrac différentes réalisations de pochettes de soirée ou de sacs à mains. 
 
-Je n'en ai fait qu'un pour le moment, je ne suis pas entièrement satisfaite du résultat parce que j'ai voulu tester le modèle de base donc je n'ai pas mis de poche à l'intérieur donc il est moyennement pratique. En revanche, le fond de sac se coud hyper facilement, à la mains, avec un fil spécial (enduit) et le modèle de base (explications avec le fond de sac) se fait vraiment rapidement. 
+![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud.jpg" | relative_url }})
+
+![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud-2.jpg" | relative_url }})
+
+![Pochette]({{ "/photos/accessoires/sacs/pochette-noeud-3.jpg" | relative_url }})
 
 ![Sac à mains]({{ "/photos/accessoires/sacs/sac-mains.jpg" | relative_url }})
+
+
