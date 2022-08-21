@@ -46,6 +46,7 @@ Et ce dernier modèle, c'est mon grand qui l'a fait lui-même, j'ai presque pas 
 
 ![Trousse d'école]({{ "/photos/accessoires/cartables-trousses/trousse-billes.jpg" | relative_url }})
 
+
 **Trousses de toilette**
 
 Là encore, personnalisables à l'envie, et ça sert toujours ! Le modèle avec les chouettes c'était pour mon filleul, et comme ça rendait bien, je m'étais lancée dans la réalisation de 30 trousses de toilettes pour offrir à Noël à chacune des résidentes de la maison de retraite où je travaille ! C'était un peu du travail à la chaîne à un moment mais je me suis bien amusée à rechercher des tissus accordés aux fermetures éclair (achetées en lot). 
@@ -54,15 +55,13 @@ Là encore, personnalisables à l'envie, et ça sert toujours ! Le modèle avec 
 
 ![Trousse de toilette]({{ "/photos/accessoires/cartables-trousses/trousses-simples.jpg" | relative_url }})
 
-**Protège-porte-vue**
 
-Je cherchais une idée pour les cadeaux de fin d'année aux enseignants... et... voilà !
+**Banane**
 
-![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue.jpg" | relative_url }})
+Ne jugez pas, mon fils m'avait demandé il y a quelques années... un sac banane !!! Donc ben... je me suis amusée à lui en faire une petite. Il ne l'a pas beaucoup utilisée au final mais ça lui a fait plaisir sur le coup. 
 
-![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue2.jpg" | relative_url }})
+![Sac banane]({{ "/photos/accessoires/cartables-trousses/banane.jpg" | relative_url }})
 
-![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue3.jpg" | relative_url }})
 
 **Sacoche**
 
@@ -77,13 +76,6 @@ Et du coup, quand mon père l'a vue, il en a voulu une aussi ! Avec quelques sp�
 ![Sacoche]({{ "/photos/accessoires/cartables-trousses/sacoche3.jpg" | relative_url }})
 
 
-**Banane**
-
-Ne jugez pas, mon fils m'avait demandé il y a quelques années... un sac banane !!! Donc ben... je me suis amusée à lui en faire une petite. Il ne l'a pas beaucoup utilisée au final mais ça lui a fait plaisir sur le coup. 
-
-![Sac banane]({{ "/photos/accessoires/cartables-trousses/banane.jpg" | relative_url }})
-
-
 **Totebag**
 
 Un autre accessoire hyper utile au quotidien : le tote-bag ! Et franchement c'est rien à faire, et on peut s'amuser à les personnaliser :) Là j'ai fait les décos en point de croix mais on peut les customiser de plein de façons différentes. 
@@ -91,6 +83,17 @@ Un autre accessoire hyper utile au quotidien : le tote-bag ! Et franchement c'es
 ![Totebag]({{ "/photos/accessoires/cartables-trousses/totebag.jpg" | relative_url }})
 
 Et du coup, pour éviter le gaspillage, l'an dernier, j'ai emballé une partie des cadeaux de Noël dans des tote-bags fait maison, comme ça l'emballage devient aussi une partie du cadeau et ça m'a occupée le soir devant l'intégrale de SGA !
+
+
+**Protège-porte-vue**
+
+Je cherchais une idée pour les cadeaux de fin d'année aux enseignants... et... voilà !
+
+![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue.jpg" | relative_url }})
+
+![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue2.jpg" | relative_url }})
+
+![Protège porte-vue]({{ "/photos/accessoires/cartables-trousses/protege-portevue3.jpg" | relative_url }})
 
 
 **Malette à dessin**
